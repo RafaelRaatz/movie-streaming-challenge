@@ -1,0 +1,1 @@
+export { MainMovies } from './mainMovies';
